@@ -2,6 +2,8 @@
 
 > This chapter is released as a *public preview* for the upcoming novel **Learning to Code with Gemini and The Council of AI**.  
 > Please do not redistribute the full manuscript; this chapter is intentionally standalone.
+>
+> *(If you’re here because you found the Mega bubble… welcome to the deep end. 😈)*
 
 ## Learning to Learn with Gemini
 
