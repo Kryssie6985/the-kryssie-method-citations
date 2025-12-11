@@ -1,4 +1,9 @@
-Chapter 3: The AI Teacher \- Learning to Learn with Gemini
+# Chapter 3: The AI Teacher - Learning to Learn with Gemini (Teaser Edition)
+
+> This chapter is released as a *public preview* for the upcoming novel **Learning to Code with Gemini and The Council of AI**.  
+> Please do not redistribute the full manuscript; this chapter is intentionally standalone.
+
+## Learning to Learn with Gemini
 
 Learning to code is often described as learning a new language, one with strict rules of grammar and syntax. But what happens when your primary teacher isn't a human instructor or a static textbook, but a Large Language Model like Gemini? It's less like attending a lecture and more like entering into a dynamic, sometimes unpredictable, but potentially powerful apprenticeship.
 

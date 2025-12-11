@@ -11,6 +11,12 @@ When the book cites a concept like `[cite:Major_Project_Files_&_Concepts_List]`,
 - **sources/**: Contains the actual design documents, blueprints, and cleaned excerpts used in the creation of the method.
 - **projects/**: Landing pages for the active ecosystems (CMP, Toolman, LCS) that evolved from these concepts.
 
+## Narrative Teaser
+
+This sourcebook also contains **Chapter 3 – “The AI Teacher”**, a standalone chapter from the upcoming novel *Learning to Code with Gemini and The Council of AI*.
+
+See: [cite:AI_Teacher_Chapter_3]
+
 ## Exploration
 
 Clone this repository to trace the lineage of the ideas. Explore the evolution from raw conversation logs to polished software architecture.
