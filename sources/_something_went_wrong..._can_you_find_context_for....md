@@ -1,9 +1,0 @@
----
-id: _Something_went_wrong..._Can_you_find_context_for...
-type: source_document
-status: placeholder
----
-
-#  Something went wrong... Can you find context for...
-
-Placeholder for _Something_went_wrong..._Can_you_find_context_for....
